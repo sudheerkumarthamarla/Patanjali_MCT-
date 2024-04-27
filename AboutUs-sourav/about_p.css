@@ -17,6 +17,9 @@ header{
     width: 100%;
     z-index: 4;
 }
+.pages a{
+    text-decoration: none;
+}
 .header-1 img{
     margin-left: 50px;
     width: 10rem;
