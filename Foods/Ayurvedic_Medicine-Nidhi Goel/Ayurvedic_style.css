@@ -25,6 +25,18 @@ header{
 .header-1 img:hover{
     cursor: pointer;
 }
+.header-2 .pages{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    font-weight: 500;
+    font-size: 16px;
+    
+}
+.header-2 .pages a{
+    text-decoration: none;
+    color: #fff;
+}
 .search{
     width: 40rem;
     display: flex;
