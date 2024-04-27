@@ -196,10 +196,15 @@ body{
       font-size: 16px; 
       line-height: 27px;
   } 
-  
+  .owl-item a{
+    text-decoration: none;
+  }
   body { 
       background: #fff;
   } 
+  .category .buttons a button:hover{
+    cursor: pointer;
+  }
   
   body { 
       font-family: "Open Sans", sans-serif; 
