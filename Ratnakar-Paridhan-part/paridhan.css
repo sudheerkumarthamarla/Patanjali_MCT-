@@ -149,6 +149,10 @@ body{
     border: none;
     font-size: 18px;
 }
+.header-2 .pages a{
+    text-decoration: none;
+    color: white;
+}
 .header-2 .button:hover{
     cursor: pointer;
 }
