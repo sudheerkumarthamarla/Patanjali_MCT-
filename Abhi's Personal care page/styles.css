@@ -149,6 +149,10 @@ body{
     .header-2 .pages{
         display: none;
     }
+    .header-2 .pages a{
+    text-decoration: none;
+    color: white;
+}
     .header-2 .search-2{
         display: flex;
         justify-content: space-between;
