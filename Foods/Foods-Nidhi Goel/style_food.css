@@ -109,6 +109,10 @@ body{
 }
 .header-2 .pages a{
     text-decoration: none;
+    color: white;
+}
+.header-2 .pages a{
+    text-decoration: none;
     color: #fff;
 }
 .header-2 .pages li{
