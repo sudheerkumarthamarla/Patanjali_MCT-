@@ -172,6 +172,10 @@ body{
     }
     
 }
+.header-2 .pages a{
+    text-decoration: none;
+    color: white;
+}
 /* header niche kah part */
 
 .image_1{
