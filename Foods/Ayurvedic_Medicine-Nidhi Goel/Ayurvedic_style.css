@@ -120,6 +120,10 @@ body{
     font-size: 16px;
     
 }
+.header-2 .pages a{
+    text-decoration: none;
+    color: white;
+}
 .header-2 .pages li{
     transition: 0.5s;
 }
